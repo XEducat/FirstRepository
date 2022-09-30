@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Text num1 Edit
 Edited by andrii
+=======
+Text num1 Edit (Fixed some bugs on files)
+>>>>>>> BagFix
